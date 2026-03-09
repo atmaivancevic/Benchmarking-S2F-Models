@@ -1,17 +1,17 @@
 # Benchmarking-S2F-Models
 
+## Overview
+
+Sequence-to-function (S2F) models like AlphaGenome, Borzoi and ChromBPNet predict regulatory activity directly from DNA sequence. This workflow performs **virtual CRISPR deletions**, mimicking experimental knockouts *in silico*, and compares the predicted chromatin and RNA-seq changes against published CRISPR KO data for TE-derived enhancers, promoters, and exons.
+
+---
+
 # 1. AlphaGenome
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![AlphaGenome](https://img.shields.io/badge/AlphaGenome-v0.5.1-green.svg)](https://pypi.org/project/alphagenome/)
 
 Automated Python workflow for benchmarking [AlphaGenome](https://github.com/google-deepmind/alphagenome) predictions against CRISPR-validated transposable element (TE)-derived regulatory elements.
-
----
-
-## Overview
-
-Sequence-to-function (S2F) models like AlphaGenome predict regulatory activity directly from DNA sequence. This workflow performs **virtual CRISPR deletions** — mimicking experimental knockouts *in silico* — and compares the predicted chromatin and RNA-seq changes against published CRISPR KO data for TE-derived enhancers, promoters, and exons.
 
 ---
 
