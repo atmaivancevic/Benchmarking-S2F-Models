@@ -11,7 +11,7 @@ Sequence-to-function (S2F) models like AlphaGenome, Borzoi and ChromBPNet predic
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![AlphaGenome](https://img.shields.io/badge/AlphaGenome-v0.5.1-green.svg)](https://pypi.org/project/alphagenome/)
 
-Automated Python workflow for benchmarking [AlphaGenome](https://github.com/google-deepmind/alphagenome) predictions against CRISPR-validated transposable element (TE)-derived regulatory elements.
+Automated Python workflow for benchmarking [AlphaGenome](https://github.com/google-deepmind/alphagenome) predictions against CRISPR-validated TE-derived regulatory elements.
 
 ---
 
