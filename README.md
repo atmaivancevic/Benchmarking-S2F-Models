@@ -30,8 +30,6 @@ pip install notebook alphagenome numpy pandas matplotlib
 
 ## Files
 
-Included in automated_pipeline/
-
 | File | Description |
 |------|-------------|
 | `alphagenome_automated_analysis.ipynb` | Main interactive notebook for exploring individual elements |
