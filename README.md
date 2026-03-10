@@ -61,7 +61,7 @@ The variant file is tab-delimited with the following columns:
 ### Interactive notebook
 
 ```bash
-cd automated_pipeline
+cd AlphaGenome
 source alphagenome_venv/bin/activate
 jupyter notebook
 ```
