@@ -1,0 +1,24 @@
+LTR10_chr	LTR10_start	LTR10_end	LTR10_strand	LTR10_subfamily	Gene_name	Gene_strand	Element_orientation_wrt_gene	GeneHancer_element_name	GeneHancer_element_type	Evidence_sources	
+chr12	51884593	51885193	+	LTR10A	ANKRD33	+	Sense	GH12J051884	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl,FANTOM5,dbSUPER"	
+chr6	28079856	28080367	+	LTR10A	ZNF165	+	Sense	GH06J028079	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr5	43315210	43315699	-	LTR10F	HMGCS1	-	Sense	GH05J043311	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr19	9673925	9674425	-	LTR10F	ZNF562	-	Sense	GH19J009674	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr19	51418662	51418784	-	LTR10A	SIGLEC10	-	Sense	GH19J051416	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr6	24877616	24878200	-	LTR10A	RIPOR2	-	Sense	GH06J024874	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,dbSUPER"	
+chr14	20828253	20828855	-	LTR10F	RNASE1	-	Sense	GH14J020827	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew"	
+chr1	26268834	26269405	+	LTR10A	CEP85	+	Sense	GH01J026269	Promoter	EPDnew	
+chr9	133031574	133032062	-	LTR10A	GTF3C5	+	Antisense	GH09J133029	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr2	54116630	54117158	-	LTR10A	ACYP2	+	Antisense	GH02J054114	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr1	1510896	1511404	-	LTR10A	ATAD3A	+	Antisense	GH01J001510	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr1	1470517	1471375	-	LTR10A	ATAD3B	+	Antisense	GH01J001470	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr12	4320212	4320318	-	LTR10F	TIGAR	+	Antisense	GH12J004320	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr17	76970287	76970780	+	LTR10F	EVPL	-	Antisense	GH17J076968	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
+chr7	150990665	150991176	-	LTR10A	NOS3	+	Antisense	GH07J150990	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,dbSUPER"	
+											
+											
+											
+											
+											
+											
+											
+											
