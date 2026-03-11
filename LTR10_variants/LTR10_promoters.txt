@@ -14,12 +14,3 @@ chr1	1470517	1471375	-	LTR10A	ATAD3B	+	Antisense	GH01J001470	Promoter/Enhancer	"
 chr12	4320212	4320318	-	LTR10F	TIGAR	+	Antisense	GH12J004320	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
 chr17	76970287	76970780	+	LTR10F	EVPL	-	Antisense	GH17J076968	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,Ensembl"	
 chr7	150990665	150991176	-	LTR10A	NOS3	+	Antisense	GH07J150990	Promoter/Enhancer	"ENCODE(Z-Lab),EPDnew,dbSUPER"	
-											
-											
-											
-											
-											
-											
-											
-
-											
