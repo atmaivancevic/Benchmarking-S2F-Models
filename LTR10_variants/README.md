@@ -38,4 +38,4 @@ One table per CRISPR experiment (6 total). Each `.xlsx` file contains differenti
 
 ## Bigwigs
 
-Bigwig files are included on GEO dataset GSE186618 and have been downloaded to the shared cluster dir (chuong-layer).
+Bigwig files are included on GEO dataset [GSE186618](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5657882) and have been downloaded to the shared cluster dir (chuong-layer).
