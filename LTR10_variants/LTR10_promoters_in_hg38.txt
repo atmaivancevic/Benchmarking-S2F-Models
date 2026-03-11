@@ -21,4 +21,5 @@ chr7	150990665	150991176	-	LTR10A	NOS3	+	Antisense	GH07J150990	Promoter/Enhancer
 											
 											
 											
+
 											
