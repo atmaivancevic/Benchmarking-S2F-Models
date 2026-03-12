@@ -46,4 +46,4 @@ FASTQ files, bigwigs and count tables are available on GEO dataset [GSE186618](h
 
 ## Enrichment in different cancers
 
-<img src="LTR10_in_cancer.png" alt="LTR10 in Cancer" width="80%">
+<img src="LTR10_in_cancer.png" alt="LTR10 in Cancer" width="70%">
