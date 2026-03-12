@@ -2,9 +2,7 @@
 
 Data files supporting the analysis of LTR10 transposable elements as regulatory variants in the human genome (hg38), with a focus on LTR10A and LTR10F subfamilies in HCT116 colorectal cancer cells.
 
-![LTR10 Graphical Summary](LTR10_graphical_summary.png)
-
-<img src="LTR10_graphical_summary.png" alt="LTR10 Graphical Summary" width="70%">
+<img src="LTR10_graphical_summary.png" alt="LTR10 Graphical Summary" width="80%">
 
 ---
 
@@ -48,4 +46,4 @@ FASTQ files, bigwigs and count tables are available on GEO dataset [GSE186618](h
 
 ## Enrichment in different cancers
 
-![LTR10_in_Cancer](LTR10_in_cancer.png)
+<img src="LTR10_in_cancer.png" alt="LTR10 in Cancer" width="80%">
