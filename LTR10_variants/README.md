@@ -4,6 +4,8 @@ Data files supporting the analysis of LTR10 transposable elements as regulatory 
 
 ![LTR10 Graphical Summary](LTR10_graphical_summary.png)
 
+<img src="LTR10_graphical_summary.png" alt="LTR10 Graphical Summary" width="70%">
+
 ---
 
 ## Files
