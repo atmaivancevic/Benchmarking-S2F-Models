@@ -1,6 +1,6 @@
 # LTR10_variants
 
-Data files supporting the analysis of LTR10 transposable elements as regulatory variants in the human genome (hg38), with a focus on LTR10A and LTR10F subfamilies in HCT116 colorectal cancer cells. Figures from https://www.science.org/doi/10.1126/sciadv.ado1218
+Data files supporting the analysis of LTR10 transposable elements as regulatory variants in the human genome (hg38), with a focus on LTR10A and LTR10F subfamilies in HCT116 colorectal cancer cells. Figures & files from https://www.science.org/doi/10.1126/sciadv.ado1218
 
 <img src="LTR10_graphical_summary.png" alt="LTR10 Graphical Summary" width="85%">
 
